@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include spanapp *.css
+recursive-include spanapp *.csv
+recursive-include spanapp *.html
+recursive-include spanapp *.ico
+recursive-include spanapp *.js
+recursive-include spanapp *.json
+recursive-include spanapp *.md
+recursive-include spanapp *.png
+recursive-include spanapp *.py
+recursive-include spanapp *.svg
+recursive-include spanapp *.txt
+recursive-exclude spanapp *.pyc

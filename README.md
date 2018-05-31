@@ -1,0 +1,7 @@
+## Spanapp
+
+Spanapp
+
+#### License
+
+MIT
